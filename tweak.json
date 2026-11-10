@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "name": "SmoothStride",
+  "id": "smoothstride",
+  "display_name": "顺滑增强",
+  "class_prefix": "AxsSmoothStride",
+  "symbol_prefix": "axs_smoothstride",
+  "package": "com.axs.smoothstride",
+  "bundle": "com.apple.springboard",
+  "sdk_version": "16.5",
+  "minimum_ios": "16.2",
+  "preferences": true,
+  "slider": true,
+  "github_actions": true
+}

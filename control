@@ -1,0 +1,11 @@
+Package: com.axs.smoothstride
+Name: 顺滑增强
+Version: 5.2.2
+Architecture: iphoneos-arm64e
+Description: SpringBoard 动画调整与可关闭的 CPU 调度实验。
+Maintainer: Axs
+Author: Axs
+Section: Axs-Tweaks
+Depends: mobilesubstrate, preferenceloader
+Icon: https://axs66.github.io/pro/icon/smoothstride.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/smoothstride/js.json
